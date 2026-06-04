@@ -1,0 +1,29 @@
+[
+  {
+    "transactionId": "txn1",
+    "memberId": "mem1",
+    "bookId": "book1",
+    "issueDate": "2026-05-01",
+    "dueDate": "2026-05-15",
+    "returnDate": "2026-05-12",
+    "fineAmount": 0
+  },
+  {
+    "transactionId": "txn2",
+    "memberId": "mem2",
+    "bookId": "book2",
+    "issueDate": "2026-05-10",
+    "dueDate": "2026-05-24",
+    "returnDate": "2026-05-28",
+    "fineAmount": 40
+  },
+  {
+    "transactionId": "txn3",
+    "memberId": "mem3",
+    "bookId": "book3",
+    "issueDate": "2026-05-20",
+    "dueDate": "2026-06-03",
+    "returnDate": null,
+    "fineAmount": 0
+  }
+]
